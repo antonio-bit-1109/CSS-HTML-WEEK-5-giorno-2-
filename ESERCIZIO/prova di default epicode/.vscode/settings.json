@@ -1,0 +1,26 @@
+{
+	"liveServer.settings.port": 5501,
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#68c95f",
+		"activityBar.background": "#68c95f",
+		"activityBar.foreground": "#15202b",
+		"activityBar.inactiveForeground": "#15202b99",
+		"activityBarBadge.background": "#5862c7",
+		"activityBarBadge.foreground": "#e7e7e7",
+		"commandCenter.border": "#15202b99",
+		"sash.hoverBorder": "#68c95f",
+		"statusBar.background": "#48b73e",
+		"statusBar.foreground": "#15202b",
+		"statusBarItem.hoverBackground": "#399131",
+		"statusBarItem.remoteBackground": "#48b73e",
+		"statusBarItem.remoteForeground": "#15202b",
+		"titleBar.activeBackground": "#48b73e",
+		"titleBar.activeForeground": "#15202b",
+		"titleBar.inactiveBackground": "#48b73e99",
+		"titleBar.inactiveForeground": "#15202b99"
+	},
+	"peacock.color": "#48b73e",
+	"editor.wrappingIndent": "indent",
+	"prettier.useTabs": false,
+	"prettier.vueIndentScriptAndStyle": false
+}
